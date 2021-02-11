@@ -1,4 +1,4 @@
-# 2flakez.github.i
+# Bad Website Made BY Bad Programmer
 Hi
 
 This is just a website I made,
