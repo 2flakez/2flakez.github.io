@@ -1,4 +1,4 @@
-# Bad Website Made BY Bad Programmer
+# Bad Website Made By Bad Programmer
 Hi
 
 This is just a website I made,
